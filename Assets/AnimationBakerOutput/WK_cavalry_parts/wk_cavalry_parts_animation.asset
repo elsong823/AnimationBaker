@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71e95b34235847942b26483d706e8255, type: 3}
+  m_Name: wk_cavalry_parts_animation
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: 4bc7979fc6bf52e49a4447fa5db9cf62, type: 2}
+  mesh: {fileID: 4300000, guid: e6ffd7969fa0f7b4bb37db0ae883601b, type: 2}
+  attackAnimLength: 1.3333334
+  deathAnimLength: 1.9950001
